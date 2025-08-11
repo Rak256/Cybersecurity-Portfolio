@@ -116,46 +116,14 @@ projects/<project-name>/
 Use `writeup.md` to include: problem statement, scope & assumptions, tools used, step-by-step analysis, findings, mitigations, and lessons learned.
 
 ---
-
-## Presentation tips (for interviews / recruiters)
-
-- Keep one page per project that summarizes the problem, your approach, and the outcome.
-- Include a short demo GIF or a 1–2 minute screen recording of the analysis (host on GitHub Releases or an external link).
-- Highlight measurable outcomes (e.g., "reduced false positives by X%", "extracted N files", "detected exfil in Y minutes").
-
----
-
 ## Contact & Links
 
-- GitHub: `https://github.com/<your-username>`
-- LinkedIn: `https://linkedin.com/in/<your-handle>`
-- Email: `you@domain.com`
+- GitHub: `https://github.com/Rak256`
+- LinkedIn: `www.linkedin.com/in/rakshit-nair-125667291`
+- Email: `rakshit.nair.12@gmail.com`
 
 (Replace with your real links / contact.)
 
 ---
 
-## Contributing
-
-If you want to contribute, open an issue or PR. Keep contributions focused on documented, reproducible improvements. Please avoid adding any sensitive or proprietary data.
-
----
-
-## License
-
-This portfolio is released under the MIT License. See `LICENSE` for details.
-
----
-
-#### Ready to deploy
-
-If you want, I can:
-
-- convert this README into a GitHub Pages landing page,
-- create a simple `index.html` with project cards, or
-- generate a short PDF resume from this content.
-
-*Say the word and I’ll build the next step.*
-
-— ✨
 
