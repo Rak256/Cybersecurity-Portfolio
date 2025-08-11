@@ -5,7 +5,7 @@
 ---
 
 &#x20;
-
+# Note: This is a template README file. It will be updated as I keep adding projects.
 ## About me
 
 I’m building a focused cybersecurity portfolio to showcase projects from the **Google Cybersecurity Certificate** and related home labs. This repo demonstrates practical skills in incident response, system hardening, network analysis, forensics, and secure configuration — with clean writeups, reproducible labs, and documented learning outcomes.
