@@ -123,7 +123,3 @@ Use `writeup.md` to include: problem statement, scope & assumptions, tools used,
 - Email: `rakshit.nair.12@gmail.com`
 
 (Replace with your real links / contact.)
-
----
-
-
