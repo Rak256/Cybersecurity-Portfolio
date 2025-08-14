@@ -121,5 +121,3 @@ Use `writeup.md` to include: problem statement, scope & assumptions, tools used,
 - GitHub: `https://github.com/Rak256`
 - LinkedIn: `www.linkedin.com/in/rakshit-nair-125667291`
 - Email: `rakshit.nair.12@gmail.com`
-
-(Replace with your real links / contact.)
